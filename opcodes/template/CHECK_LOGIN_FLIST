@@ -1,0 +1,7 @@
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /search 0 0
+0 PIN_FLD_FLAGS           INT [0] 256
+0 PIN_FLD_TEMPLATE        STR [0] "select X from /service where F1 = V1 "
+0 PIN_FLD_ARGS          ARRAY [1] allocated 20, used 1
+1     PIN_FLD_LOGIN      STR [0] "MY_LOGIN"
+0 PIN_FLD_RESULTS       ARRAY [0] allocated 20, used 4
+1     PIN_FLD_POID_TYPE  STR [0]
